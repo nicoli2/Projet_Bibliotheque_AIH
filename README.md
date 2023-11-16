@@ -7,6 +7,11 @@ Liste des classes:
 ---- Classe : Adherent
 ---- Classe : Emprunt
 
-
+Liste des tâches :
+---- Classe : Bibliotheque ---­­­> Groupe
+---- Classe : Document ---­­­> Hassan
+---- Classe : Livre ---­­­> Iurie
+---- Classe : Adherent ---­­­> Mohssine
+---- Classe : Emprunt ---­­­> Groupe
 
 
