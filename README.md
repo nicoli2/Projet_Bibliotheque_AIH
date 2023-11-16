@@ -15,6 +15,11 @@ Liste des tâches :
 ---- Classe : Emprunt ---­­­> Groupe
 
 
+<<<<<<< HEAD
 Test de modification -- Mohssine
+=======
+Test de modification
+modification depius one drive.
+>>>>>>> cb98a37ae48db26174596b7fe78726730c8b67cf
 
 
