@@ -1,9 +1,10 @@
 # Projet_Bibliotheque_AIH
 ## Tp1
-## Membres du groupe 1:
+## Membres du groupe 1 :
 - Almountacir Abdelmohssine
 - Bensoum Hassan
 - Nicolaev Iurie
+  
 ## Date limite de remise :
 - 22 Décembre 2023
 
@@ -21,6 +22,7 @@
 - Classe : Adherent ---­­­> Mohssine
 - Classe : Emprunt ---­­­> Groupe
 
+### Conclusion :
 
 
 
