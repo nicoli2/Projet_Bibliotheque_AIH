@@ -6,9 +6,9 @@ Bensoum Hassan
 Nicolaev Iurie
 Date limite de remise : 22 Décembre 2023
 
-Liste des classes:
----- Classe : Bibliotheque
----- Classe : Document
+## Liste des classes:
+- Classe : Bibliotheque
+- Classe : Document
 ---- Classe : Livre
 ---- Classe : Adherent
 ---- Classe : Emprunt
