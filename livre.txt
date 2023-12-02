@@ -3,7 +3,5 @@ Windows server2022, 500, 123456
 Office 365, 300, 4526398
 Javascript, 450, 5485692
 Cybersecurity for dummies, 350, 2145826
-Apprendre � programmer avec Python, 435, 58600572
-Cybersecurity for dummies, 350, 2145826
-Apprendre � programmer avec Python, 435, 58600572
+Apprendre à programmer avec Python, 435, 58600572
 Programmer avec C++, 450, 785426392
