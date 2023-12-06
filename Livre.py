@@ -1,3 +1,4 @@
+# Classe Livre permet d'ajouter un livre, d'afficher la liste des livres et supprimer un livre
 class Livre:
     def __init__(self, p_titre="", p_nbrPages="", p_ISBN=""):
         self.titre = p_titre
@@ -52,7 +53,7 @@ class Livre:
                 print("====== ATTENTION !!! Ce livre sera supprimé !!! =========")
                 print("\n", ligne[int(x) - 1])
                 print("===================================================================")
-                y = input("Êtes-vous sûr de le supprimer ? O/N ")
+                y = input("Êtes-vous sûr de vouloir le supprimer ? O/N ")
                 if y == "o" or y == "O":
                     listeTemp = []
                     for i in range(0, len(ligne)):
@@ -76,7 +77,3 @@ listeLivre = []
 # liv1.lireDepuisClavier()
 # liv1.enregistrerDansFichier()
 # print("=====La liste des livres=============")
-# liv1.afficherListeLivre()
-# liv1.supprimerLivre()
-
-
