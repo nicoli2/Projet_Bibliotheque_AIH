@@ -1,3 +1,4 @@
+# Classe Emprunt permet d'ajouter un emprunt, d'afficher la liste des emprunts et supprimer un emprunt
 class Emprunt:
     def __init__(self, p_titre="", p_nom="", p_date=""):
         self.titre = p_titre
@@ -69,13 +70,5 @@ class Emprunt:
                 print("Ce numéro d'emprunt n'existe pas !!!")
                 flag = 1
 listeEmprunt = []
-#Création d'objets
-# em1 = Emprunt()
-# em1.lireDepuisClavier()
-# em1.enregistrerDansFichier()
-# print("=====La liste des emprunts=============")
-# em1.afficherListeEmprunt()
-# # em1.supprimerEmprunt()
-
 
 
